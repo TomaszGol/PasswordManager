@@ -1,2 +1,2 @@
 # PasswordManager
-Python fully usable password manager.
+Python fully usable password manager with GUI in tkinter.
